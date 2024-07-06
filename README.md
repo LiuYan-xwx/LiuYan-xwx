@@ -16,4 +16,4 @@
 - X
   - @LiuYan_xwx
 - 网站
-  - ~~lyxwx.top~~ ***Not available*** CDN寄了
+  - lyxwx.top ~~***Not available**，CDN寄了*~~ *更换了CDN，目前可以访问，稳定性待测试*
