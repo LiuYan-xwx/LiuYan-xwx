@@ -6,7 +6,7 @@
 目前开了一个 MC 服务器，想玩的可以找我w
 ## Coding
 只会一点人人都会的非常基础的 Python，和 C#，其他一窍不通()。  
-目前对 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 这个项目非常感兴趣，所以在学习 WPF 以及 C#。
+目前对 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 这个项目非常感兴趣，所以正在学习 WPF 以及 C#。
 ## Contact
 您可以通过以下途径找到我：  
 - QQ ***(Oftenly used)*** :
@@ -16,4 +16,4 @@
 - X
   - @LiuYan_xwx
 - 网站
-  - lyxwx.top ~~***Not available**，CDN寄了*~~ *更换了CDN，目前可以访问，稳定性待测试*
+  - lyxwx.top *弄着玩的，非常不正式以及没有什么内容*
