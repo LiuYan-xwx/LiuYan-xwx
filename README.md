@@ -9,14 +9,14 @@
 目前开了一个 MC 服务器，想玩的可以找我w
 ## Contact
 您可以通过以下途径找到我：  
-- QQ ***(Oftenly used)*** :
+- QQ *（常用）* :
   - 2722348656
 - Bilibili:
   - 流焰xwx
 - X
   - @LiuYan_xwx
-- Telegram ***(Rarely used)***
+- Telegram *（基本不用）*
   - @LiuYan_xwx
   - https://t.me/LiuYan_xwx
 - 网站
-  - lyxwx.top *(弄着玩的，非常不正式以及没有什么内容)*
+  - lyxwx.top *(弄着玩的，非常不正式，以及没有任何内容，甚至主页都没写好)*
