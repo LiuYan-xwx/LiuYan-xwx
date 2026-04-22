@@ -7,7 +7,7 @@
 以及最近在开发的 [MonitorIsland](https://github.com/LiuYan-xwx/MonitorIsland) (一个ClassIsland插件)，和 [InkCanvasForClass-Remastered](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered)。  
 ## 游戏
 最近不怎么玩游戏了，一般玩的话会玩 MC(Java 版)，以及 CS2 等等  
-目前开了一个 MC 服务器，想玩的可以找我w
+目前开了一个 MC 服务器，想玩的可以找我w(已经没有了())
 ## Contact
 您可以通过以下途径找到我：  
 - QQ *（常用）* :
