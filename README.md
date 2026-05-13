@@ -2,7 +2,7 @@
 我叫流焰，如你所见，是一个重度福瑞控x  
 目前在东莞上高三，没有什么特长，没有什么爱好()  
 ## Coding
-只会一点 C#，以及 WPF，其他基本一窍不通()。  
+会一点点 C# 和 WPF，和一点点 Avalonia。  
 目前对 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 这个项目比较感兴趣，所以说学了一点 WPF 以及 C#。  
 以及最近在开发的 [MonitorIsland](https://github.com/LiuYan-xwx/MonitorIsland) (一个ClassIsland插件)，和 [InkCanvasForClass-Remastered](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered)。  
 ## 游戏
@@ -16,7 +16,7 @@
   - 流焰xwx
 - X
   - @LiuYan_xwx
-- Telegram *（基本不用）*
+- Telegram
   - @LiuYan_xwx
   - https://t.me/LiuYan_xwx
 - 网站
