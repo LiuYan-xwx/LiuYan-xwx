@@ -1,6 +1,6 @@
 # 你好哇！
 我叫流焰，如你所见，是一个重度福瑞控x  
-目前在东莞上高三，没有什么特长，没有什么爱好()  
+目前在东莞上高三捏  
 ## Coding
 会一点点 C# 和 WPF，和一点点 Avalonia。  
 目前对 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 这个项目比较感兴趣，所以说学了一点 WPF 以及 C#。  
