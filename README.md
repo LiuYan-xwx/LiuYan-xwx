@@ -1,9 +1,9 @@
 # 你好哇！
 我叫流焰，如你所见，是一个重度福瑞控x  
-目前准大一捏  
+目前大一捏  
 ## Coding
 会一点点 C# 和 WPF，和一点点 Avalonia。  
-目前对 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 这个项目比较感兴趣，所以说学了一点 WPF 以及 C#。  
+之前对 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 这个项目比较感兴趣，所以说学了一点 WPF 以及 C#。  
 以及最近在开发的 [MonitorIsland](https://github.com/LiuYan-xwx/MonitorIsland) (一个ClassIsland插件)，和 [InkCanvasForClass-Remastered](https://github.com/LiuYan-xwx/InkCanvasForClass-Remastered)。  
 ## 游戏
 最近不怎么玩游戏了，一般玩的话会玩 MC(Java 版)，以及 CS2 等等  
